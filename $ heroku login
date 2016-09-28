@@ -1,0 +1,7 @@
+$ heroku login
+$ git status
+$ git add 
+$ git add app/
+$ git add config/routes.rb
+$ git status
+$ git commit -m "Initial commit"
